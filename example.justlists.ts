@@ -122,7 +122,8 @@
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
     ],
-    "logoURI":"https://justswap.io/favicon.ico",
+    "logoURI":"https://justswap.io/favicon.json
+    
     "version":{
         "patch":1,
         "major":1,
